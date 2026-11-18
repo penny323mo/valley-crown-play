@@ -1,7 +1,7 @@
 {
-  "build": "vc-d0e584be116c",
-  "source_commit": "896d157e9194b357ee164281702c1151d9612921",
-  "export_run": "https://github.com/penny323mo/valley-crown/actions/runs/44287984021",
+  "build": "vc-78edfcdd5a39",
+  "source_commit": "8792df36a1ec44e62c29f91c1d2bb84e66631dc0",
+  "export_run": "https://github.com/penny323mo/valley-crown/actions/runs/44296979864",
   "files_sha256": {
     "GODOT-LICENSES.txt": "f0d10be03fc4d21a7e0ce642206746f7448025af3c57ef1778535811d646ac5f",
     "THIRD_PARTY_NOTICES.txt": "b6848920db01db1e9893d675da3ad3e0b229d1330578ece1228873125e505f77",
@@ -19,16 +19,16 @@
     "index.apple-touch-icon.png": "9b374ecbc8558f480421e646f38aaa8a69d5b1d65ff7b48d0735da214c46773a",
     "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
     "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
-    "index.html": "2f421a868708ad0e33b64e0c5643369bb7e87f5559047fffac2f0f9f0e3d24fc",
+    "index.html": "f464ace1d59f6e01a4fa9569564c8b75cf95c665fe73e7e017cbe0409ebcd71c",
     "index.icon.png": "08808dd5397e9a502cb3624944151f87a9705b5b66b5c365c5ca4c6ab51525f5",
     "index.js": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981",
-    "index.pck": "478b676e97d64aa6cde51a7d82fef1c91d525b49720642c566ef766871e14299",
+    "index.pck": "5c19eef5d2dcaa779693eb022c728638f9972aa833f678f016204be461e9a119",
     "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
     "index.wasm": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
   },
   "browser_acceptance": "not performed; owner requested immediate deployment",
   "single_threaded": true,
   "native_capture": "pending; no released-build capture attached",
-  "artifact_url": "https://github.com/penny323mo/valley-crown/releases/download/web-archive-artifact-14421476695/14421476695.zip",
-  "zip_sha256": "b37d72ea6fb35c3429d8c52628614bf9d2e17544618f63d0217cd206f706ddc6"
+  "artifact_url": "https://github.com/penny323mo/valley-crown/releases/download/web-archive-artifact-14425745300/14425745300.zip",
+  "zip_sha256": "d229e2712e5734eda874c231560501bf9077ed9a55de5d62da79ea8c74724454"
 }
