@@ -1,7 +1,7 @@
 {
-  "build": "vc-ea0e9d130c01",
-  "source_commit": "3cd3b3ea0da6cdea5ef88b7f87782b9585c46fb7",
-  "export_run": "https://github.com/penny323mo/valley-crown/actions/runs/44584806093",
+  "build": "vc-ae5db9fcbf8e",
+  "source_commit": "7565d1de8df114e3ffeb3c8248eb634038ba42b6",
+  "export_run": "https://github.com/penny323mo/valley-crown/actions/runs/44597035566",
   "files_sha256": {
     "GODOT-LICENSES.txt": "f0d10be03fc4d21a7e0ce642206746f7448025af3c57ef1778535811d646ac5f",
     "THIRD_PARTY_NOTICES.txt": "36989d2a5b8e6de186deffe20969ac48df8444a74ef0a562e457f89af97b9b05",
@@ -20,16 +20,16 @@
     "index.apple-touch-icon.png": "9b374ecbc8558f480421e646f38aaa8a69d5b1d65ff7b48d0735da214c46773a",
     "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
     "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
-    "index.html": "5e313abc3f582c8076a5045dae70a73a8173ce0b5c54fb4be9c901e8c1c750c9",
+    "index.html": "ff8a154acfcbcf8b3f2ab8f22313292a02855f23d822b5662bee968685e0f95f",
     "index.icon.png": "08808dd5397e9a502cb3624944151f87a9705b5b66b5c365c5ca4c6ab51525f5",
     "index.js": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981",
-    "index.pck": "0d7c757ba78e7707c2ab6ffebfa2228772e1b3b97813ec96a2a1d771ca1a6399",
+    "index.pck": "161213a7db508ed9e69c72c8dccfaaf000feaf2fdb84d8bd02c59f7503c21bc2",
     "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
     "index.wasm": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
   },
   "single_threaded": true,
-  "browser_acceptance": "Exact production Chromium WebGL2 ordinary battle. Parallel touch pan keeps scale in portrait and landscape; deliberate spread and squeeze work; near-ground selection/directed movement and rotation tested. No physical iPhone Safari claim.",
-  "artifact_url": "https://github.com/penny323mo/valley-crown/releases/download/web-archive-artifact-14562197426/14562197426.zip",
-  "zip_sha256": "fe0835768fbe3f70fa6582c68a4074e0f3473d4de7a16223ec6250ce998857a3",
-  "native_capture": "Controlled exact native camera gestures and ownership regression; genuine before/after stock Chromium gameplay PNGs verified separately."
+  "browser_acceptance": "Exact production Chromium WebGL2 ordinary 640x360 and 844x390 horizontal battlefield, persistent tutorial Details, explicit building and command Cancel, paid build and training, campaign navigation, portrait returns and equal-span pan. No physical iPhone Safari claim.",
+  "artifact_url": "https://github.com/penny323mo/valley-crown/releases/download/web-archive-artifact-14567927636/14567927636.zip",
+  "zip_sha256": "16d590d9f71fcae68fb8ab71789c16ec0f480fb0d651a6c150f0d0689954e9a2",
+  "native_capture": "Native short landscape actual routed HUD and normal payment tests; genuine before/after stock Chromium gameplay PNGs verified separately."
 }
