@@ -1,7 +1,7 @@
 {
-  "build": "vc-e559b7eec2ed",
-  "source_commit": "ffb87bca95c1581332a5b4068a206fb793221592",
-  "export_run": "https://github.com/penny323mo/valley-crown/actions/runs/44563428226",
+  "build": "vc-90bd13ae58b8",
+  "source_commit": "f6d9d413f50c193c008fd29447e4ea75198e862e",
+  "export_run": "https://github.com/penny323mo/valley-crown/actions/runs/44572319526",
   "files_sha256": {
     "GODOT-LICENSES.txt": "f0d10be03fc4d21a7e0ce642206746f7448025af3c57ef1778535811d646ac5f",
     "THIRD_PARTY_NOTICES.txt": "36989d2a5b8e6de186deffe20969ac48df8444a74ef0a562e457f89af97b9b05",
@@ -20,16 +20,16 @@
     "index.apple-touch-icon.png": "9b374ecbc8558f480421e646f38aaa8a69d5b1d65ff7b48d0735da214c46773a",
     "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
     "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
-    "index.html": "b7cb2cd02294e55decc98b77328bf6f0101cbe450cad37d6bdf4fa6b06d31821",
+    "index.html": "eccded6f31e9d637343f15ec025ddac77c14373644a6639d6a6ef18b4de076b8",
     "index.icon.png": "08808dd5397e9a502cb3624944151f87a9705b5b66b5c365c5ca4c6ab51525f5",
     "index.js": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981",
-    "index.pck": "20c41cf27585bdc9be1f3db36f664f3b62c647646a02d3a5c0a54994805b5b43",
+    "index.pck": "3d95be6c68f836efa3b4f8cde145f9712e81f52da14d0e33935f9fb6a51a7279",
     "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
     "index.wasm": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
   },
   "single_threaded": true,
-  "browser_acceptance": "not performed; native evidence is separate",
-  "artifact_url": "https://github.com/penny323mo/valley-crown/releases/download/web-archive-artifact-14552049410/14552049410.zip",
-  "zip_sha256": "71b8c733242f8f6a1a414f23126496d67632f0257aa1ae42fc8e329ce389f09c",
-  "native_capture": "Same-build headless engine checks passed; genuine campaign/native capture and browser/device play are separate evidence."
+  "browser_acceptance": "Desktop Chromium WebGL2 exact production menu, controlled test write through shipped storage expression with immediate reload, real restart/reset and denied storage fallback. No ordinary browser victory or physical Safari test.",
+  "artifact_url": "https://github.com/penny323mo/valley-crown/releases/download/web-archive-artifact-14556422156/14556422156.zip",
+  "zip_sha256": "105536faadb417945a3655b9b8b3fc7b08d659edd1f1308dcc2a1291dcf151ab",
+  "native_capture": "Real native siege victory and earned checkpoint-free progress tested. Rendered proof is separate from browser and physical device acceptance."
 }
