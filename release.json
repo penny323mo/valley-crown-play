@@ -1,7 +1,7 @@
 {
-  "build": "vc-59f3607d0a76",
-  "source_commit": "aba7d61362281f4998b0b13a7f1d01f78f60590c",
-  "export_run": "https://github.com/penny323mo/valley-crown/actions/runs/44520317998",
+  "build": "vc-175001363156",
+  "source_commit": "1acbc8ee2fdbd9171db75723d6797871bbd67052",
+  "export_run": "https://github.com/penny323mo/valley-crown/actions/runs/44532781622",
   "files_sha256": {
     "GODOT-LICENSES.txt": "f0d10be03fc4d21a7e0ce642206746f7448025af3c57ef1778535811d646ac5f",
     "THIRD_PARTY_NOTICES.txt": "36989d2a5b8e6de186deffe20969ac48df8444a74ef0a562e457f89af97b9b05",
@@ -20,16 +20,16 @@
     "index.apple-touch-icon.png": "9b374ecbc8558f480421e646f38aaa8a69d5b1d65ff7b48d0735da214c46773a",
     "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
     "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
-    "index.html": "afde6426c7f5fb8e761c9b614de368627fb0ef3c868afde476427e40b792e80a",
+    "index.html": "507fcc0a22882abb507db4f8c5ac52a8d732b355558ea8a572d9045347ae35d5",
     "index.icon.png": "08808dd5397e9a502cb3624944151f87a9705b5b66b5c365c5ca4c6ab51525f5",
     "index.js": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981",
-    "index.pck": "39f6c860e6c30b987d2b4ce2d9e6d3a125b3f727d6c49a7f02b2ee11f9677a0e",
+    "index.pck": "5474744f4550cd07723102ea94eac7ffbf0f1a6770f129fb594640aef48108d0",
     "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
     "index.wasm": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
   },
   "single_threaded": true,
   "browser_acceptance": "not performed; native evidence is separate",
-  "artifact_url": "https://github.com/penny323mo/valley-crown/releases/download/web-archive-artifact-14529662253/14529662253.zip",
-  "zip_sha256": "c336d51e33d3abd6a6fe732c1718f7cdef75e55561e44d4aadc0843532580b33",
+  "artifact_url": "https://github.com/penny323mo/valley-crown/releases/download/web-archive-artifact-14536061544/14536061544.zip",
+  "zip_sha256": "5f03d7b6350f219c84793cd65432ef6e5695d0ac1e7778f26ea0fa5fdff59076",
   "native_capture": "Same-build headless engine checks passed; genuine rendered comparison and browser/device play are separate evidence."
 }
