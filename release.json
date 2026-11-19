@@ -1,7 +1,7 @@
 {
-  "build": "vc-466cb41c0518",
-  "source_commit": "147347a68e52d72bf03f49256646aee3b4289730",
-  "export_run": "https://github.com/penny323mo/valley-crown/actions/runs/44550546351",
+  "build": "vc-e559b7eec2ed",
+  "source_commit": "ffb87bca95c1581332a5b4068a206fb793221592",
+  "export_run": "https://github.com/penny323mo/valley-crown/actions/runs/44563428226",
   "files_sha256": {
     "GODOT-LICENSES.txt": "f0d10be03fc4d21a7e0ce642206746f7448025af3c57ef1778535811d646ac5f",
     "THIRD_PARTY_NOTICES.txt": "36989d2a5b8e6de186deffe20969ac48df8444a74ef0a562e457f89af97b9b05",
@@ -20,16 +20,16 @@
     "index.apple-touch-icon.png": "9b374ecbc8558f480421e646f38aaa8a69d5b1d65ff7b48d0735da214c46773a",
     "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
     "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
-    "index.html": "e8ce03ca833d80169a316b6f8e7a1a8ec89b3acfb39200ed03671b1295f1b4ea",
+    "index.html": "b7cb2cd02294e55decc98b77328bf6f0101cbe450cad37d6bdf4fa6b06d31821",
     "index.icon.png": "08808dd5397e9a502cb3624944151f87a9705b5b66b5c365c5ca4c6ab51525f5",
     "index.js": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981",
-    "index.pck": "f761e24cad357950797f5f3226b0f755cdc1765bd952756001e68f4f26b5fe09",
+    "index.pck": "20c41cf27585bdc9be1f3db36f664f3b62c647646a02d3a5c0a54994805b5b43",
     "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
     "index.wasm": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
   },
   "single_threaded": true,
   "browser_acceptance": "not performed; native evidence is separate",
-  "artifact_url": "https://github.com/penny323mo/valley-crown/releases/download/web-archive-artifact-14544716567/14544716567.zip",
-  "zip_sha256": "9ce0031585c85568076da2ecec0c83d897be320d7ec1c56dde958b81a11cf434",
-  "native_capture": "Same-build headless engine checks passed; genuine victory-report capture and browser/device play are separate evidence."
+  "artifact_url": "https://github.com/penny323mo/valley-crown/releases/download/web-archive-artifact-14552049410/14552049410.zip",
+  "zip_sha256": "71b8c733242f8f6a1a414f23126496d67632f0257aa1ae42fc8e329ce389f09c",
+  "native_capture": "Same-build headless engine checks passed; genuine campaign/native capture and browser/device play are separate evidence."
 }
