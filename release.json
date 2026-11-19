@@ -1,7 +1,7 @@
 {
-  "build": "vc-037b3db3b754",
-  "source_commit": "10bc1ffef4f4715e294b2ae82a8ae966448c0fab",
-  "export_run": "https://github.com/penny323mo/valley-crown/actions/runs/44605756697",
+  "build": "vc-98a66fc81dbe",
+  "source_commit": "420a7c3d3769a33f4a929577122efd4ed2d10db3",
+  "export_run": "https://github.com/penny323mo/valley-crown/actions/runs/44613205661",
   "files_sha256": {
     "GODOT-LICENSES.txt": "f0d10be03fc4d21a7e0ce642206746f7448025af3c57ef1778535811d646ac5f",
     "THIRD_PARTY_NOTICES.txt": "36989d2a5b8e6de186deffe20969ac48df8444a74ef0a562e457f89af97b9b05",
@@ -20,16 +20,16 @@
     "index.apple-touch-icon.png": "9b374ecbc8558f480421e646f38aaa8a69d5b1d65ff7b48d0735da214c46773a",
     "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
     "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
-    "index.html": "461e55b7278f224dfee80e1f3b8db3a2fe35cff07ac4ba1e068445168de5dca5",
+    "index.html": "b8ac3a5e587ad9d7608ae81d1d53ac909d24080f63addc0afd6478bc18ecff71",
     "index.icon.png": "08808dd5397e9a502cb3624944151f87a9705b5b66b5c365c5ca4c6ab51525f5",
     "index.js": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981",
-    "index.pck": "4d47aa760c05a9e2f61ce585e8d4be950fa177bdc97f13d3b9ec16fe4deb17a3",
+    "index.pck": "ea5b0d0ec8c0f911f63d723ab5eeb7e3acfddb53211802cf4c7bac7c3cc04e59",
     "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
     "index.wasm": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
   },
   "single_threaded": true,
-  "browser_acceptance": "Exact production Chromium WebGL2 ordinary Breach objective focus and return to actual selected troop, no order, zoom or selection change; tested 320x568, 390x844, 844x390. No physical iPhone Safari claim.",
-  "artifact_url": "https://github.com/penny323mo/valley-crown/releases/download/web-archive-artifact-14572247534/14572247534.zip",
-  "zip_sha256": "e07012756a686b6c04d889866302953c431a6bf74017318a92909d3acc617e5d",
-  "native_capture": "Native actual objective-center and return touches; no authority/fog change. Genuine before/after Chromium gameplay PNGs separately verified."
+  "browser_acceptance": "Exact production export; no physical iPhone or separate Web touch claim for this narrow update.",
+  "artifact_url": "https://github.com/penny323mo/valley-crown/releases/download/web-archive-artifact-14575186995/14575186995.zip",
+  "zip_sha256": "1eddf11cf1cac5d61be4884ae0ae9e1936eb7f34d09905a9570a1a03539bf64b",
+  "native_capture": "Exact PCK native touch tests at 390x844 and 640x360. Authenticated paired real Escort placement/outpost defense PNGs. No blocker, fog or score-rule change."
 }
