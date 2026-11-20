@@ -1,7 +1,7 @@
 {
-  "build": "vc-ce2efc75244b",
-  "source_commit": "521dfb8b65191c8b4a0c8452272bdc46bdeaa06a",
-  "export_run": "https://github.com/penny323mo/valley-crown/actions/runs/44626413569",
+  "build": "vc-b93dd669a7ce",
+  "source_commit": "e2beeda5af306e3e18ba7983e72c2c524815ffb2",
+  "export_run": "https://github.com/penny323mo/valley-crown/actions/runs/44642506940",
   "files_sha256": {
     "GODOT-LICENSES.txt": "f0d10be03fc4d21a7e0ce642206746f7448025af3c57ef1778535811d646ac5f",
     "THIRD_PARTY_NOTICES.txt": "36989d2a5b8e6de186deffe20969ac48df8444a74ef0a562e457f89af97b9b05",
@@ -20,16 +20,16 @@
     "index.apple-touch-icon.png": "9b374ecbc8558f480421e646f38aaa8a69d5b1d65ff7b48d0735da214c46773a",
     "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
     "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
-    "index.html": "c2ea50bbc08cf165fe34f40b8e13b424f757c74055ba3e4aadc36087d7b31bb2",
+    "index.html": "3e597e092c6aeb2f5484ee179269b40d7b297b23b3ada1f130db21a8d8ac7abd",
     "index.icon.png": "08808dd5397e9a502cb3624944151f87a9705b5b66b5c365c5ca4c6ab51525f5",
     "index.js": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981",
-    "index.pck": "56ef61daf52fdeacb60e5f2a46b8ba38e0720438c80675ea59d9fc70abfa748d",
+    "index.pck": "1acf84d4d37c3f7a2ecf716b1af6044b7dd11f7649f7dd500fca7769485f5372",
     "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
     "index.wasm": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
   },
   "single_threaded": true,
-  "browser_acceptance": "Exact production export; no physical iPhone or separate Web touch claim for this narrow update.",
-  "artifact_url": "https://github.com/penny323mo/valley-crown/releases/download/web-archive-artifact-14580174918/14580174918.zip",
-  "zip_sha256": "7cd2eec672926e643d8885f4903fb6f050cfd450db55dd4e7990bd84ed693397",
-  "native_capture": "Exact PCK native 390x844 authentic briefing, real location-based supply deliveries and victory screenshots. Separate browser smoke, not a physical iPhone. Existing saves/modes unaffected; new standalone challenge has no save support."
+  "browser_acceptance": "Exact package: 320x568 picker, ordinary touch ground order, 844x390 rotation in stock Chrome. No physical iPhone claim.",
+  "artifact_url": "https://github.com/penny323mo/valley-crown/releases/download/web-archive-artifact-14588880894/14588880894.zip",
+  "zip_sha256": "a1db24e208013e8718533ddeafc1648236e371f1a8574ab56e2976ce33aa0426",
+  "native_capture": "Exact Godot package: real optional layout overview and both actual scout crossings; separate full ordinary native victory with paid siege; same-build checkpoint policy."
 }
