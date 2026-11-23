@@ -1,7 +1,7 @@
 {
-  "build": "vc-c57441a91f81",
-  "source_commit": "9e5f9e9cfccb0238f2c9b7ce36d67058a3ea0394",
-  "export_run": "https://github.com/penny323mo/valley-crown/actions/runs/45160944253",
+  "build": "vc-21fe3bd842be",
+  "source_commit": "727bfc928d6962df34095b00076abba4a07eaf16",
+  "export_run": "https://github.com/penny323mo/valley-crown/actions/runs/45180107229",
   "files_sha256": {
     "GODOT-LICENSES.txt": "f0d10be03fc4d21a7e0ce642206746f7448025af3c57ef1778535811d646ac5f",
     "THIRD_PARTY_NOTICES.txt": "36989d2a5b8e6de186deffe20969ac48df8444a74ef0a562e457f89af97b9b05",
@@ -20,16 +20,16 @@
     "index.apple-touch-icon.png": "9b374ecbc8558f480421e646f38aaa8a69d5b1d65ff7b48d0735da214c46773a",
     "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
     "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
-    "index.html": "b003366808f6548771ba1d2b649c740fe6a73f4d851dc3bb233deaf28dfa3968",
+    "index.html": "da7706bc40b54b7865cadca68a13ebb90206b1f15f8e4e4f574fa88f8fa27aae",
     "index.icon.png": "08808dd5397e9a502cb3624944151f87a9705b5b66b5c365c5ca4c6ab51525f5",
     "index.js": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981",
-    "index.pck": "1b81fa3a941ad46e4439a467cc1b6b73ad57c4c4e01295d07979b1274edae195",
+    "index.pck": "4759e70544296f296ceced58a31269b927004cb234c730a6de27b1288dd0afd8",
     "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
     "index.wasm": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
   },
   "single_threaded": true,
-  "browser_acceptance": "Exact stock Chromium WebGL2 568x320 paired terrain pass in run 45172843754; no Safari or physical iPhone acceptance",
-  "artifact_url": "https://github.com/penny323mo/valley-crown/releases/download/web-archive-artifact-14813977366/14813977366.zip",
-  "zip_sha256": "f3ddc1289491dc1768408770227e417f378ffb56c068242cc805df31d3f0b3e8",
-  "screenshot_evidence": "Authentic native Godot 568x320 exact stamped matched map edge before and after, capture run 45161161486"
+  "browser_acceptance": "Exact stock Chromium WebGL2 568x320 ordinary touch and explicit separate payment pass in run 45187480608; no Safari or physical iPhone acceptance",
+  "artifact_url": "https://github.com/penny323mo/valley-crown/releases/download/web-archive-artifact-14823642088/14823642088.zip",
+  "zip_sha256": "7b372ca170334aae62b60ff65efeb8d09b13dcfa765c4330060aaed90599be86",
+  "screenshot_evidence": "Authentic native Godot 568x320 matched placement before and after, exact same runtime stamp, capture run 45174735626"
 }
