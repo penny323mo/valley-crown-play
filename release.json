@@ -1,7 +1,7 @@
 {
-  "build": "vc-8018c5b0e95b",
-  "source_commit": "70ad0f219d41ab2f73fe740662b8a4980d159b12",
-  "export_run": "https://github.com/penny323mo/valley-crown/actions/runs/45096333341",
+  "build": "vc-48407f5501e4",
+  "source_commit": "40ed8f286d56459bd304568d6131909d00764736",
+  "export_run": "https://github.com/penny323mo/valley-crown/actions/runs/45106940156",
   "files_sha256": {
     "GODOT-LICENSES.txt": "f0d10be03fc4d21a7e0ce642206746f7448025af3c57ef1778535811d646ac5f",
     "THIRD_PARTY_NOTICES.txt": "36989d2a5b8e6de186deffe20969ac48df8444a74ef0a562e457f89af97b9b05",
@@ -20,16 +20,16 @@
     "index.apple-touch-icon.png": "9b374ecbc8558f480421e646f38aaa8a69d5b1d65ff7b48d0735da214c46773a",
     "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
     "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
-    "index.html": "f844a2b4148708512f32876dfc3d722856efd3fa1d645015d1402b912e7c0c78",
+    "index.html": "533508432fa16b35b4d731bc7078f4d09cca61033da40eab1da65095b593aab2",
     "index.icon.png": "08808dd5397e9a502cb3624944151f87a9705b5b66b5c365c5ca4c6ab51525f5",
     "index.js": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981",
-    "index.pck": "80702fe0e4587cb0bddd67f9a881c9eba62a62e0a77c0bfe04d0d939afad5f4b",
+    "index.pck": "12f0e8eb3cb08185a2ac24764c9bdba4509c2b63eb8ec094fa74c1daaf6d868b",
     "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
     "index.wasm": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
   },
   "single_threaded": true,
   "browser_acceptance": "Not yet performed for this build.",
-  "artifact_url": "https://github.com/penny323mo/valley-crown/releases/download/web-archive-artifact-14783964290/14783964290.zip",
-  "zip_sha256": "f1544cc6fc022290b7f92fcee5a7fc76f45490731db20eb93bc5aa39065a8262",
-  "screenshot_evidence": "Authentic native Godot command-icon fixtures from exact product source in Actions run 45096827995, not Web or iPhone screenshots."
+  "artifact_url": "https://github.com/penny323mo/valley-crown/releases/download/web-archive-artifact-14788907635/14788907635.zip",
+  "zip_sha256": "83d54c7ac0866ad2caac3bf58fc1bcbf950443c67a91bc4f1e75b82f13bca013",
+  "screenshot_evidence": "Authentic native Godot screenshots of Training and Research views from exact source; Actions run 45106971345. Not Web or iPhone screenshots."
 }
