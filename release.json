@@ -1,7 +1,7 @@
 {
-  "build": "vc-2ca62083d195",
-  "source_commit": "b7158f7a0498cec499f521aba5412fade0d7b84c",
-  "export_run": "https://github.com/penny323mo/valley-crown/actions/runs/45114142430",
+  "build": "vc-ec0980cd3908",
+  "source_commit": "bf59f7f76d6d3bcba1cff69ef9943e1f6bcac891",
+  "export_run": "https://github.com/penny323mo/valley-crown/actions/runs/45124951397",
   "files_sha256": {
     "GODOT-LICENSES.txt": "f0d10be03fc4d21a7e0ce642206746f7448025af3c57ef1778535811d646ac5f",
     "THIRD_PARTY_NOTICES.txt": "36989d2a5b8e6de186deffe20969ac48df8444a74ef0a562e457f89af97b9b05",
@@ -20,16 +20,16 @@
     "index.apple-touch-icon.png": "9b374ecbc8558f480421e646f38aaa8a69d5b1d65ff7b48d0735da214c46773a",
     "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
     "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
-    "index.html": "4030456d72e837025b5065cb8af434b83311f0cf8e0a531d5434da428ba63b9f",
+    "index.html": "32da9f75f1f46fa1504fd7621d153b51d60860fbe0152e170a4d35b6ce345957",
     "index.icon.png": "08808dd5397e9a502cb3624944151f87a9705b5b66b5c365c5ca4c6ab51525f5",
     "index.js": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981",
-    "index.pck": "fa84f97035ceeecdc63a7a1152ca6f0daf14b209e643fadd449756b277216771",
+    "index.pck": "5c9bbd569a578c23c82002ea70acd91678eb818326f8dcdcaacfc36c8b846539",
     "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
     "index.wasm": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
   },
   "single_threaded": true,
   "browser_acceptance": "Not yet performed for this build.",
-  "artifact_url": "https://github.com/penny323mo/valley-crown/releases/download/web-archive-artifact-14792111056/14792111056.zip",
-  "zip_sha256": "610fc34d26a49ff3e8a8e88c675499758f76dbe4f07fc2c1b9ab7b6c1d3b446c",
-  "screenshot_evidence": "Authentic native Godot Range placement screenshots at 568x320 from exact baseline and product sources, plus exact product paid completion; capture run 45114237052"
+  "artifact_url": "https://github.com/penny323mo/valley-crown/releases/download/web-archive-artifact-14796905697/14796905697.zip",
+  "zip_sha256": "17beef851de57e28e2a9f16a4187dbbd6e978a4d72a39ab76bb537d9bb6e62c1",
+  "screenshot_evidence": "Authentic native Godot 568x320 current mixed-selection and filtered-army screenshots from byte-identical runtime, capture run 45120654615"
 }
