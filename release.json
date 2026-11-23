@@ -1,7 +1,7 @@
 {
-  "build": "vc-5b3829bff321",
-  "source_commit": "3c647ef1394d3fb66766d328b4db6b292fa3e3f0",
-  "export_run": "https://github.com/penny323mo/valley-crown/actions/runs/45139975554",
+  "build": "vc-6ebac38878db",
+  "source_commit": "8c7a4085a68d94c18ce5a03c3ec65a08eb283fdf",
+  "export_run": "https://github.com/penny323mo/valley-crown/actions/runs/45146261892",
   "files_sha256": {
     "GODOT-LICENSES.txt": "f0d10be03fc4d21a7e0ce642206746f7448025af3c57ef1778535811d646ac5f",
     "THIRD_PARTY_NOTICES.txt": "36989d2a5b8e6de186deffe20969ac48df8444a74ef0a562e457f89af97b9b05",
@@ -20,16 +20,16 @@
     "index.apple-touch-icon.png": "9b374ecbc8558f480421e646f38aaa8a69d5b1d65ff7b48d0735da214c46773a",
     "index.audio.position.worklet.js": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
     "index.audio.worklet.js": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
-    "index.html": "afb6593cf3e2f8415d12e5cd95ab5f3279c5a7beadd81c3d287b1c61934d07a4",
+    "index.html": "d2c9cd43c979fc8373a6edb27d6e8c18aa122e75ac0ccb3fd1e0ca697aebb11d",
     "index.icon.png": "08808dd5397e9a502cb3624944151f87a9705b5b66b5c365c5ca4c6ab51525f5",
     "index.js": "e3f56ee40e6f84371053db06692cfac15e2c8659547b11c6b2dfa1996dabd981",
-    "index.pck": "285ba6d7a01fa7935527e1c50aa5a4b0aa063f2d09c50cf460f0a8e5fed4244f",
+    "index.pck": "e13eb928cc7d8228a5fb21aa8c1fb00adde4ae96891aeda0fb2e00e2306647cf",
     "index.png": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
     "index.wasm": "26b61ce95247012ab3dca3ff51e96d1cdbff44ee91a8c20a83e150afca83f1b6"
   },
   "single_threaded": true,
   "browser_acceptance": "Not yet performed for this build.",
-  "artifact_url": "https://github.com/penny323mo/valley-crown/releases/download/web-archive-artifact-14802183740/14802183740.zip",
-  "zip_sha256": "566d5c6ef8940fd830cd5cc40546063a9e102fb45bf9c80f62a993e41015d216",
-  "screenshot_evidence": "Authentic native Godot 568x320 exact matched Chapter 1 victory debrief Overview and Buildings, capture run 45140225219; no browser or physical iPhone play test."
+  "artifact_url": "https://github.com/penny323mo/valley-crown/releases/download/web-archive-artifact-14806875814/14806875814.zip",
+  "zip_sha256": "5cbb178389afc36d61918be26f56b12a0c4db021b776275ddbac23541896d2b3",
+  "screenshot_evidence": "Authentic native Godot 568x320 matched Chapter 2 intermission countdown and final wave after toast, capture run 45146466477; no browser or physical iPhone play test."
 }
